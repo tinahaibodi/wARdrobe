@@ -27,10 +27,10 @@ We learned how to integrate Sketch components, Microsoft Azure, and CocoaPods in
 The future vision for wARdrobe is creating 3D movie scenes that are almost indistinguishable from reality - immersing potential movie-goers into their prospective movie. Imagine stepping into the newest "Batman" and being able to view Wonder Woman and Batman fighting in detail right in front of you, the interactions of the environment, and experience all of the things they do in the movie - right from your home. We would also want to expand this experience by making it social. It would be great to see which of your friends have seen a movie in the past and also to take inspiration from other people's movie experiences.
 
 ## Built With:
-ar-kit
-flask
-cocoapods
-azure
-alamofire
-bing
-wolfram-technologies
+ar-kit -
+flask -
+cocoapods -
+azure -
+alamofire -
+bing -
+wolfram-technologies -
